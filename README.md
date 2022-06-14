@@ -62,7 +62,7 @@ Where `<revision>` is a driver version e.g. `378.10.10.10.25.106`
 You can clone this repository or download the script with the following command:
 
 ```
-curl -O https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh
+curl -O https://raw.githubusercontent.com/hzhu75-ford/nvidia-update/master/nvidia-update.sh
 chmod 755 nvidia-update.sh
 ```
 
