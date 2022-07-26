@@ -54,8 +54,11 @@ Simply run the script again, it'll take care of the rest, updating and/or patchi
 ```
 bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) <revision>
 ```
+For example, my current Hackintosh need the version 387.10.10.10.40.113
 
-Where `<revision>` is a driver version e.g. `378.10.10.10.25.106`
+```
+bash <(curl -s https://raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh) 387.10.10.10.40.113
+```
 
 # Downloading the script
 
